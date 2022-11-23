@@ -15,5 +15,6 @@ Click on ‘Create a service’ to create your new worker
 
 Enter a name for your new worker and select the ‘HTTP handler’ as the starter, and click on ‘Create service’
 
-
+Once your service has been created, click on ‘Quick Edit’ to edit your worker directly in the browser
+Now, in your editor, you should be seeing the default code for a new Cloudflare worker.
 
