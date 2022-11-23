@@ -33,7 +33,7 @@ Now, with our endpoint ready, all that is left to do is to set the webhook of ou
 
 With our bot API token, and the URL of our new worker (which should be ending with workers.dev), substitute the values into this URL and simply copy and paste it into your browser and enter
 
-https://api.telegram.org/bot{replace with bot api token}/setWebhook?url={replace with our worker url}
+https://api.telegram.org/bot{replace_with_bot_api_token}/setWebhook?url={replace_with_our_worker_url}
 
 
 If you see this as a response, you’re all set!
